@@ -1,0 +1,23 @@
+{
+  "name": "guc",
+  "version": "1.0.0",
+  "description": "Gas Unit Converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hand-dot/guc.git"
+  },
+  "author": "hand-dot <kyouhei.fukuda0729@gmail.com> (https://github.com/hand-dot)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hand-dot/guc/issues"
+  },
+  "homepage": "https://github.com/hand-dot/guc#readme",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^5.2.0"
+  }
+}
