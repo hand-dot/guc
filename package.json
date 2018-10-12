@@ -30,5 +30,8 @@
     "mocha": "^5.2.0",
     "webpack": "^4.17.0",
     "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {
+    "bignumber.js": "^7.2.1"
   }
 }
