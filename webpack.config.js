@@ -23,6 +23,7 @@ module.exports = {
     publicPath: '/',
     filename: 'index.js',
     library: 'guc',
-    libraryTarget: 'umd'
+    libraryTarget: 'umd',
+    globalObject  : 'this'
   },
 };
