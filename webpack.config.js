@@ -24,6 +24,5 @@ module.exports = {
     filename: 'index.js',
     library: 'guc',
     libraryTarget: 'umd',
-    globalObject  : 'this'
   },
 };
