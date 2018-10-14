@@ -1,6 +1,6 @@
 {
   "name": "guc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gas Unit Converter",
   "main": "index.js",
   "scripts": {
