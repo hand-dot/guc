@@ -22,5 +22,5 @@ module.exports = function (gas, inputUnit, outputUnit, input) {
         return input;
     }
     const ratio = ratios[gas][inputUnit][outputUnit];
-    return ratio ? BigNumber(input).multipliedBy(BigNumber(ratio)) : null;
+    return ratio ? BigNumber(input).multipliedBy(BigNumber(ratio).toNumber()) : null;
 }
